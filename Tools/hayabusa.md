@@ -15,6 +15,9 @@ Being the first time I have heard of it, I was pretty sure it wasn't the motorcy
 - ### $hayabusa update-rules
 Updates detection rules(necessary)
 
+- ### $hayabusa log-metrics --file something.evtx
+Check log file Metadata
+
 - ### $hayabusa csv-timeline --file something.evtx -o timeline.csv
 This creates a DFIR timeline in CSV format 
 
@@ -24,8 +27,11 @@ Same, but in JSON format
 - ### $hayabusa eid-metrics --file something.evtx
 Summarize events by ID
 
-- ### $hayabusa log-metrics --file something.evtx
-Check log file Metadata
+- ### $hayabusa computer-metrics --file Security.evtx
+Summarize events by Computer Name
+
+- ### $hayabusa extract-base64 --file Security.evtx --output decoded.txt
+Extract Base64 strings
 
 - ### $hayabusa search --file something.evtx --keyword powershell
 Search by keyword
