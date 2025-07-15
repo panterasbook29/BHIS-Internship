@@ -12,17 +12,24 @@ Being the first time I have heard of it, I was pretty sure it wasn't the motorcy
 
 # Using the actual tool
 ## Some commands that I found most interesting and usefull:
-- ### $hayabusa csv-timeline -l something.evtx -o timeline.csv
-This creates a DFIR timeline in CSV format 
-- ### $hayabusa json-timeline -l something.evtx -o timeline.json
-Same, but in JSON format
-- ### $hayabusa eid-metrics -l something.evtx
-Summarize events by ID
-- ### $hayabusa log-metrics -l something.evtx
-Check log file Metadata
-- ### $hayabusa search -l something.evtx -k powershell
-Search by keyword
-- ### $hayabusa logon-summary -l something.evtx
-Get Logon activity summary
 - ### $hayabusa update-rules
-Pull the detection logs from github
+Updates detection rules(necessary)
+
+- ### $hayabusa csv-timeline --file something.evtx -o timeline.csv
+This creates a DFIR timeline in CSV format 
+
+- ### $hayabusa json-timeline --file something.evtx -o timeline.json
+Same, but in JSON format
+
+- ### $hayabusa eid-metrics --file something.evtx
+Summarize events by ID
+
+- ### $hayabusa log-metrics --file something.evtx
+Check log file Metadata
+
+- ### $hayabusa search --file something.evtx --keyword powershell
+Search by keyword
+
+- ### $hayabusa logon-summary --file something.evtx
+Get Logon activity summary
+
