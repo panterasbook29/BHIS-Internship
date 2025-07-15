@@ -1,5 +1,6 @@
-## July 15th
+## July 15th --- 3 hours 20 minutes
 - Learning github writing and format syntaxes
 - Learning and playing around with [hayabusa](tools/hayabusa.md)
 - Getting familiar with Windows Event Viewer
-- Trying to simulate a lab for [Log Analysis](Labs/Log_Analysis_Entry_Level.md)
+- Trying to simulate a lab for [Log Analysis Lab](Labs/Log_Analysis_Entry_Level.md) to make an idea of what I should point out
+
