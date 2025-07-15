@@ -9,3 +9,8 @@ Being the first time I have heard of it, I was pretty sure it wasn't the motorcy
 - $sudo cp target/release/hayabusa /usr/local/bin/  (so I can use it from anywhere)
 
 ### FYI 'dnf' is the same as 'apt' and 'cargo' is pretty much 'make' from kali
+
+# Using the actual tool
+## Some commands that I found most interesting and usefull:
+- ### hayabusa csv-timeline -l /path/to/logs -o timeline.csv
+This creates a DFIR timeline in CSV format 
