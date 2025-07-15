@@ -11,7 +11,7 @@ Being the first time I have heard of it, I was pretty sure it wasn't the motorcy
 ### FYI 'dnf' is the same as 'apt' and 'cargo' is pretty much 'make' from kali
 
 # Using the actual tool
-## Some commands that I found most interesting and usefull:
+## Some commands that I found most interesting and useful:
 - ### $hayabusa update-rules
 Updates detection rules(necessary)
 
