@@ -33,3 +33,9 @@ Search by keyword
 - ### $hayabusa logon-summary --file something.evtx
 Get Logon activity summary
 
+
+# Some notes and links
+- This tools is basically a cli version of the Windows Event Viewer, much better in my opinion, but it can't work in real time
+- Had a hard time finding the new command syntaxes, as they have changed over the years
+- I prefer it to the Windows Event Viewer, easier to do bulk searching
+- Took me a good while to find some good .evtx file to play with: [Log File For Lab](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES/blob/master/AutomatedTestingTools/PanacheSysmon_vs_AtomicRedTeam01.evtx)
