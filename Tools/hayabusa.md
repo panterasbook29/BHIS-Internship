@@ -5,5 +5,5 @@ Being the first time I have heard of it, I was pretty sure it wasn't the motorcy
 - $git clone https://github.com/Yamato-Security/hayabusa.git
 - $cd hayabusa
 - $cargo build --release
-- ### I got an error on the build and had to install PerlCore: $sudo dnf install perl-core + $cargo clean + again cargo build --release
+- ### I got an error on the build and had to install PerlCore: $sudo dnf install perl-core + $cargo clean + again $cargo build --release
 - $sudo cp target/release/hayabusa /usr/local/bin/  (so I can use it from anywhere)
