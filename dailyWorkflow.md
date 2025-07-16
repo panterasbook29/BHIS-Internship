@@ -4,3 +4,6 @@
 - Getting familiar with Windows Event Viewer
 - Trying to simulate a lab for [Log Analysis Lab](Labs/Log_Analysis_Entry_Level.md) to make an idea of what I should point out
 
+## July 16th --- 
+- Moving stuff over from yesterday to the official repository of the team
+
