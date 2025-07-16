@@ -8,4 +8,5 @@
 - Moving stuff over from yesterday to the official repository of the team
 - Learning and resuming the most important information about **Log Analysis Basics**, **Sysmon Logs** and **Authentication Logs** from the antysyphon courses and: https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon, https://www.aserto.com/blog/authorization-decision-logs-important and https://www.loggly.com/ultimate-guide/windows-logging-basics/
 - Make the **Log Analysis basics** Lab
+- For the lab I didn't need to do a whole lotta research as I already know most of the stuff, I just had to get familiar with the forensic tools
 
