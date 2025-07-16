@@ -6,5 +6,5 @@
 
 ## July 16th --- 
 - Moving stuff over from yesterday to the official repository of the team
-- Learning and resuming the most important information about **Log Analysis Basics**, **Sysmon Logs** and **Authentication Logs**
+- Learning and resuming the most important information about **Log Analysis Basics**, **Sysmon Logs** and **Authentication Logs** from the antysyphon courses and: https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon, https://www.aserto.com/blog/authorization-decision-logs-important and https://www.loggly.com/ultimate-guide/windows-logging-basics/
 
