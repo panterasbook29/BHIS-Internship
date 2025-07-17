@@ -11,3 +11,11 @@
 - For the lab I didn't need to do a whole lotta research as I already know most of the stuff, I just had to get familiar with the forensic tools
 - Documenting Windows Event Viewer
 
+## July 17th ---
+- Setting up the new laptop
+- Adding some final touches to 1st lab
+- Researching for 2nd lab
+- Exploring LimaCharlie and documenting it
+- Learning how to make detection rules and search telemetry
+- Starting the lab2 setup tutorial 
+
