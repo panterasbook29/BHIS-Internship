@@ -17,5 +17,6 @@
 - Researching for 2nd lab
 - Exploring LimaCharlie and documenting it
 - Learning how to make detection rules and search telemetry
-- Starting the lab2 setup tutorial 
+- Starting the lab2 setup tutorial
+- Almost finishing lab2 documentation
 
