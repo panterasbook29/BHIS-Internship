@@ -15,13 +15,13 @@
 - Setting up the new laptop and the mail from the system
 - Adding some final touches to 1st lab
 - Researching for 2nd lab
-- Exploring LimaCharlie and documenting it
+- Exploring LimaCharlie and documenting it - https://docs.limacharlie.io/docs
 - Learning how to make detection rules and search telemetry
 - Starting the lab2 setup tutorial
 - Almost finishing lab2 documentation
 
 ## July 18th ---
 - Finished lab2 documentation
-- Researching for elastic and learning
+- Researching for elastic and learning - https://www.elastic.co/docs
 - Making an elastic documentation
 - Trying to make an architecture for a hands-on elastic lab
