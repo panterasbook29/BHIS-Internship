@@ -20,3 +20,8 @@
 - Starting the lab2 setup tutorial
 - Almost finishing lab2 documentation
 
+## July 18th ---
+- Finished lab2 documentation
+- Researching for elastic and learning
+- Making an elastic documentation
+- Trying to make an architecture for a hands-on elastic lab
