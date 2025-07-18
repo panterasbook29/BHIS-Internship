@@ -7,13 +7,13 @@
 ## July 16th --- 4 hours 50 minutes
 - Moving stuff over from yesterday to the official repository of the team
 - Learning and resuming the most important information about **Log Analysis Basics**, **Sysmon Logs** and **Authentication Logs** from the antysyphon courses and: https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon, https://www.aserto.com/blog/authorization-decision-logs-important and https://www.loggly.com/ultimate-guide/windows-logging-basics/
-- Make the **Log Analysis basics** Lab
+- Make the **Log Analysis basics** lab and [Log Analysis Basics Documentation](/Documentations/logAnalysis_basics.md)
 - For the lab I didn't need to do a whole lotta research as I already know most of the stuff, I just had to get familiar with the forensic tools
 - Documenting [Windows Event Viewer](/Tools/winEventViewer.md)
 
 ## July 17th --- 4 hours 20 minutes
 - Setting up the new laptop and the mail from the system
-- Adding some final touches to [1st lab](/Documentations/logAnalysis_Entry_level.md)
+- Adding some final touches to [1st lab](/Labs/logAnalysis_Entry_level.md)
 - Researching for 2nd lab
 - Exploring [LimaCharlie](/Tools/LimaCharlie.md) and documenting it - https://docs.limacharlie.io/docs
 - Learning how to make detection rules and search telemetry
