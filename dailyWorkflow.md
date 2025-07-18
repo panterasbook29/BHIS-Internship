@@ -27,3 +27,4 @@
 - Trying to make an architecture for a hands-on elastic lab
 - Setting up elastic with a tutorial(very annoying to set up and to make a general tutorial because when I think I got the right track I realize at the end I got to start over to make it better)
 - Also got 2nd place at the CTF(continuing tommorow) :)
+- To-Do for tomorrow - add links between lab2 and hands on tool labs cause I forgot
