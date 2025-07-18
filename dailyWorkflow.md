@@ -13,7 +13,7 @@
 
 ## July 17th --- 4 hours 20 minutes
 - Setting up the new laptop and the mail from the system
-- Adding some final touches to [1st lab](/Labs/logAnalysis_Entry_Level.md)
+- Adding some final touches to [1st lab](/Labs/Log_Analysis_Entry_Level.md)
 - Researching for 2nd lab
 - Exploring [LimaCharlie](/Tools/LimaCharlie.md) and documenting it - https://docs.limacharlie.io/docs
 - Learning how to make detection rules and search telemetry
