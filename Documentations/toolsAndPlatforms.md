@@ -15,8 +15,12 @@ This lab introduces interns to **foundational tools and platforms** used daily i
 ## LimaCharlie Hands-On
 [LimaCharlie](/courseFiles/tools/LimaCharlie.md) is a cloud-native EDR and infrastructure-as-a-service platform. It collects detailed telemetry from endpoints and allows for custom detection and response rules
 
+After setting it up, you can try the [LimaCharlie Lab](/courseFiles/Lab_02-toolsAndPlatforms/limaCharlieLab.md)
+
 ## Elastic SIEM Hands-On
 [Elastic SIEM](/courseFiles/tools/Elastic.md), part of the Elastic Stack (Elasticsearch, Logstash, Kibana), provides a flexible and powerful SIEM solution for log ingestion, search, visualization, and detection
+
+After setting it up, you can try the [Elastic Lab](/courseFiles/Lab_02-toolsAndPlatforms/elasticLab.md)
 
 ## Viewing Alerts & Logs
 SOC analysts must interpret alerts in context and verify their validity
@@ -72,5 +76,4 @@ Key Skills
 [Click here for the Previous Lab](/courseFiles/Lab_01-logAnalysis_Basics/logAnalysis_basicsmd)
 
 <b><i>Looking for a different lab? </b></br>[Back to Lab Directory](/coursenavigationmd)</i>
-
 
