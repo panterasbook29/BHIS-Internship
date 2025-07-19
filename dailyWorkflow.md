@@ -29,7 +29,7 @@
 - Also got 2nd place at the CTF(continuing tommorow) :)
 - ~~To-Do for tomorrow - add links between lab2 and hands on tool labs cause I forgot~~
 
-## July 19th --- 3 hours 10 minutes
-- Addming more details to lab2
+## July 19th --- 3 hours 40 minutes
+- Adding more details to lab2
 - Researching more real life cases of compromised systems and finding more information to prepare for lab6, like https://www.first.org/resources/papers/conference2008/chuvakin-anton-slides.pdf
-- Almost finishing the elastic lab(had to learn it first so I know what I am writing and saying :) )
+- Workin on the elastic lab(had to learn it first so I know what I am writing and saying :) )
