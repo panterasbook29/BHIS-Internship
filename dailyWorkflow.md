@@ -33,3 +33,6 @@
 - Adding more details to lab2
 - Researching more real life cases of compromised systems and finding more information to prepare for lab6, like https://www.first.org/resources/papers/conference2008/chuvakin-anton-slides.pdf
 - Workin on the elastic lab(had to learn it first so I know what I am writing and saying :) )
+
+## July 20th --- 
+- Started the antisyphon Intro to Python course
