@@ -36,3 +36,5 @@
 
 ## July 20th --- 
 - Started the antisyphon Intro to Python course
+- Had to start from scratch the whole elastic and kibana lab because of some stupid configuration, very hard and annoying to setup for a lab
+- Had to redo the elastic documentation
