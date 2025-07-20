@@ -34,7 +34,9 @@
 - Researching more real life cases of compromised systems and finding more information to prepare for lab6, like https://www.first.org/resources/papers/conference2008/chuvakin-anton-slides.pdf
 - Workin on the elastic lab(had to learn it first so I know what I am writing and saying :) )
 
-## July 20th --- 
+## July 20th --- 7 hours 40 minutes
 - Started the antisyphon Intro to Python course
 - Had to start from scratch the whole elastic and kibana lab because of some stupid configuration, very hard and annoying to setup for a lab
 - Had to redo the elastic documentation
+- Basically had to set it up as a whole project, making a local SIEM stack, or a mini SOC-in-a-box, quite a bit of work to set up for the ones who will take the course, but I think it's extremely worth it, they can basically experience real SOC work
+- Finished the [Elastic Lab](/Labs/ElasticLab.md)
