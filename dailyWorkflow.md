@@ -40,3 +40,8 @@
 - Had to redo the elastic documentation
 - Basically had to set it up as a whole project, making a local SIEM stack, or a mini SOC-in-a-box, quite a bit of work to set up for the ones who will take the course, but I think it's extremely worth it, they can basically experience real SOC work
 - Finished the [Elastic Lab](/Labs/ElasticLab.md)
+
+## July 21st --- 2 hours 30 minutes
+- Continued the Lima Charlie lab and tool documentation
+- Asked Tim permission to use his LC setup for this project
+- Learned about and how to make **yara** rules
