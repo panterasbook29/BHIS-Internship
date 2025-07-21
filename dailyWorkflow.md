@@ -45,3 +45,4 @@
 - Continued the Lima Charlie lab and tool documentation
 - Asked Tim permission to use his LC setup for this project
 - Learned about and how to make **yara** rules
+- Started a tryhackme course and path on **Advanced Endpoint Detection** ( https://tryhackme.com/room/mbrandgptanalysis ) and asked Tim about this CTF: https://tryhackme.com/honeynet-collapse
