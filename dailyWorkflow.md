@@ -55,3 +55,4 @@
 - Finished [Azure Lab](/Labs/AzureLab.md), a hassle as always to set up a log reviewing platform and had to redo it like 3 times because of log ingesting problems
 - Started researching on Deception Systems
 - Worked on the Deception Systems Lab
+- Tommorow I start the Antisyphon training course on Cyber Deception: https://www.antisyphontraining.com/course/active-defense-and-cyber-deception-with-john-strand/
