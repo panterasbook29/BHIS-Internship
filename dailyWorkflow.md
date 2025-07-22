@@ -49,8 +49,9 @@
 - Worked on the documentation for [Browser and Cloud Security](/Documentations/browserAndCloudSecurity.md) and finished it, inspiration: https://attack.mitre.org/techniques/T1176/001/ , https://portswigger.net/web-security/oauth , https://densecurity.medium.com/single-sign-on-sso-potential-flaws-or-vulnerabilities-in-the-implementation-1708022b0696
 - Worked on the Azure Lab
 
-## July 22nd --- 4 hours 5 minutes
+## July 22nd --- 4 hours 45 minutes
 - Finished the Cloud and web security lab fully
 - Learned about Azure clusters, databases and role distribution
 - Finished [Azure Lab](/Labs/AzureLab.md), a hassle as always to set up a log reviewing platform and had to redo it like 3 times because of log ingesting problems
-- A bit of research on Deception Systems
+- Started researching on Deception Systems
+- Worked on the Deception Systems Lab
