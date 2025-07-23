@@ -56,3 +56,9 @@
 - Started researching on Deception Systems
 - Worked on the Deception Systems Lab
 - Tommorow I start the Antisyphon training course on Cyber Deception: https://www.antisyphontraining.com/course/active-defense-and-cyber-deception-with-john-strand/
+
+## July 23rd --- 
+- Started the day by doing the Annual Security Training
+- Started the Cyber Deception course
+- Did some challenges from the cyber range for the 9th chapter in our training
+- Finished all the logistic problems and installed everything, also did CJ Cox's checklist
