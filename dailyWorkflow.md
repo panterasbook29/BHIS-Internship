@@ -63,5 +63,5 @@
 - Did some challenges from the cyber range for the 9th chapter in our training
 - Finished all the logistic problems and installed everything, also did CJ Cox's checklist
 
-## July 24th --- 3 hours 50 minutes
-- Continued the Cyber Deception Course
+## July 24th --- 7 hours 20 minutes
+- Continued and finished the Cyber Deception Course
