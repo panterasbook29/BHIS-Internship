@@ -66,7 +66,10 @@
 ## July 24th --- 7 hours 20 minutes
 - Continued and finished the Cyber Deception Course
 
-## July 25th - 2 hours 40 minutes
+## July 25th - 5 hours 10 minutes
 - Finished the [Deception Systems and Active Defense Lab](/Documentations/deceptionSystems.md) and linked each method to appropriate tools
 - Added some legal notes also to the lab
 - Started researching for the Documentation And Case Notes lab
+- Finished the [Documentation And Case Notes Lab](/Documentation/documentationAndCaseNotes.md)
+- Added a hands-on lab for this, [Documentation Lab](/Labs/documentationLab.md)
+- Started working on a documentation for Dionaea
