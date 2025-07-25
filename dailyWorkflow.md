@@ -70,6 +70,6 @@
 - Finished the [Deception Systems and Active Defense Lab](/Documentations/deceptionSystems.md) and linked each method to appropriate tools
 - Added some legal notes also to the lab
 - Started researching for the Documentation And Case Notes lab
-- Finished the [Documentation And Case Notes Lab](/Documentation/documentationAndCaseNotes.md)
+- Finished the [Documentation And Case Notes Lab](/Documentations/documentationAndCaseNotes.md)
 - Added a hands-on lab for this, [Documentation Lab](/Labs/documentationLab.md)
 - Started working on a documentation for Dionaea
