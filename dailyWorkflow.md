@@ -74,5 +74,5 @@
 - Added a hands-on lab for this, [Documentation Lab](/Labs/documentationLab.md)
 - Started working on a documentation for Dionaea
 
-## July 26 - 3 hours 40 minutes
+## July 26 - 4 hours 25 minutes
 - Worked on the cyber range, got level 5 fot the ACE-T Certification
