@@ -66,7 +66,7 @@
 ## July 24th --- 7 hours 20 minutes
 - Continued and finished the Cyber Deception Course
 
-## July 25th - 5 hours 10 minutes
+## July 25th --- 5 hours 10 minutes
 - Finished the [Deception Systems and Active Defense Lab](/Documentations/deceptionSystems.md) and linked each method to appropriate tools
 - Added some legal notes also to the lab
 - Started researching for the Documentation And Case Notes lab
@@ -74,5 +74,9 @@
 - Added a hands-on lab for this, [Documentation Lab](/Labs/documentationLab.md)
 - Started working on a documentation for Dionaea
 
-## July 26 - 4 hours 25 minutes
-- Worked on the cyber range, got level 5 fot the ACE-T Certification
+## July 26 --- 4 hours 25 minutes
+- Worked on the cyber range, got level 6 fot the ACE-T Certification
+
+## July 27th --- Free
+
+## July 28th ---
