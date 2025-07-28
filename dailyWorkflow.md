@@ -80,3 +80,6 @@
 ## July 27th --- Free
 
 ## July 28th ---
+- Try to make dionaea to work, apparently pointless on Fedora
+- Made a template for me to follow on Lab_10-softSkills
+- Finished [Lab_10](/Documentations/Lab_10-softSkills.md)
