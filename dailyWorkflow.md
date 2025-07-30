@@ -79,7 +79,15 @@
 
 ## July 27th --- Free
 
-## July 28th ---
+## July 28th --- 6 hours 55 minutes
 - Try to make dionaea to work, apparently pointless on Fedora
 - Made a template for me to follow on Lab_10-softSkills
 - Finished [Lab_10](/Documentations/Lab_10-softSkills.md)
+- Installing a ubuntu VM for dionaea and any other tools I might need to install for future labs 
+- Finished the Welcome Lab 
+- Reviewed everything I have done so far for this project 
+- Finished documentation for [Dionaea](/Tools/Dionaea.md)
+- Finished the [dionaea lab](/Labs/dionaeaLab.md)
+
+## July 29th --- 3 hours 
+- Doing Cyber Range Challenges
