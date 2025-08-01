@@ -1,4 +1,5 @@
 --- **general**
+
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys ED65462EC8D5E4C5
 
 sudo apt update && sudo apt full-upgrade -y
@@ -22,6 +23,7 @@ pip3 install boto3
 ---
 
 --- **dionaea (on Desktop)**
+
 sudo git clone https://github.com/DinoTools/dionaea.git + cd dionaea
 
 mkdir build && cd build
@@ -54,6 +56,7 @@ sudo nano /usr/local/etc/dionaea/dionaea.cfg - Delete anything emu related from 
 ---
 
 --- **hayabusa (on desktop)**
+
 sudo apt install -y git curl build-essential pkg-config libssl-dev perl
 
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
@@ -69,6 +72,7 @@ cargo build --release
 ---
 
 --- **elastic**
+
 sudo apt update && sudo apt install openjdk-21-jdk -y
 
 sudo rpm --import https://artifacts.elastic.co/GPG-KEY-elasticsearch
