@@ -35,11 +35,13 @@ Examples
 
 ## Active Defense & Cyber Deception
 Active defense shifts from passive monitoring to proactive engagement, it includes
-- **Tarpitting** - Slowing attacker tools and scripts using low-interaction decoys ***(Dionaea)***
+- **Tarpitting** - Slowing attacker tools and scripts using low-interaction decoys ***([Dionaea](/courseFiles/tools/Dionaea.md))***
 - **Misattribution** - Feeding attackers false information ***(PortSpoof, SpiderTrap)***
 - **Adversary Engagement** - Actively observing and sometimes manipulating adversaries in controlled environments ***(Thinkst Canary)***
 
 By upsetting adversary decision cycles and making them doubt the reliability of their information and actions, these tactics enhance conventional defenses
+
+Another tool that we introduce through a hands-on lab is on [beelzebub](/courseFiles/Lab_07-deceptionSystems/beelzebubLab.md), and advanced SSH honeypot
 
 ## Legal Notes
 ### Legality of Deception
@@ -66,6 +68,21 @@ Risky or Unethical Practices
 - Deceptively collecting data from real users without disclosure
 
 Best advice I can give is use the MITRE Engage framework for designing ethical, well-scoped deception strategies
+
+### Check out these labs:
+
+- [Dionaea Lab](./dionaeaLab.md)
+
+- [CanaryToken Lab](./CanaryToken_lab/CanaryToken_lab.md)
+
+### US law references:
+[Computer Fraud and Abuse Act (CFAA) – 18 U.S.C. § 1030](https://www.law.cornell.edu/uscode/text/18/1030)
+
+[Wiretap Act / Electronic Communications Privacy Act (ECPA) – 18 U.S.C. §§ 2510–2523](https://www.law.cornell.edu/uscode/text/18/part-I/chapter-119)
+
+[Stored Communications Act (SCA) – 18 U.S.C. §§ 2701–2712](https://www.law.cornell.edu/uscode/text/18/2701)
+
+[Active Cyber Defense Certainty Act (ACDCA) (Proposed, not passed)](https://www.congress.gov/bill/116th-congress/house-bill/3270)
 
 ***
 <b><i>Continuing the course?</b>
