@@ -91,3 +91,15 @@
 
 ## July 29th --- 3 hours 
 - Doing Cyber Range Challenges
+
+## July 30th --- 4 hours 25 minutes
+- Doing Cyber Range Challenges
+
+## July 31th --- 5 hours 15 minutes
+- Started a linux course
+- Made the SSH honeypot lab work on my end
+- Finished the beelzebub lab and started updating every lab and tool to be the same as in the VM
+
+## August 1st --- 
+- Finished updating all the labs and tools that i could
+- Made a list to update the cloud VM
