@@ -95,3 +95,12 @@ sudo apt install filebeat -y
 
 sudo systemctl enable --now filebeat
 
+---
+
+--- From the other labs
+
+Snort, Suricata-on kali
+
+Sysmon(https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon), this Sysmon config(https://github.com/SwiftOnSecurity/sysmon-config), procdump(https://learn.microsoft.com/en-us/sysinternals/downloads/procdump) and Hayabusa(https://github.com/Yamato-Security/hayabusa/releases/download/v3.2.0/hayabusa-3.2.0-win-x64.zip)- on windows(preferabely unzipped and everything in the same folder or maybe with subfolders)
+
+ 
