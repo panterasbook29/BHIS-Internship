@@ -6,13 +6,10 @@ cargo
 cmake
 cpputest
 curl
-elasticsearch
 exo-utils
-filebeat
 flex
 git
 hydra
-kibana
 libcap-ng-dev
 libcurl4-openssl-dev
 libdumbnet-dev
