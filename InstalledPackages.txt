@@ -1,5 +1,6 @@
 autoconf
 automake
+autopsy
 bison
 build-essential
 cargo
@@ -57,6 +58,7 @@ python3.9
 python3.9-dev
 python3.9-venv
 rustc
+snapd
 snort
 software-properties-common
 sqlite3
