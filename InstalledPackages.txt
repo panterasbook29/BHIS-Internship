@@ -62,5 +62,6 @@ software-properties-common
 sqlite3
 suricata
 uuid-dev
+volatility3
 zlib1g
 zlib1g-dev
