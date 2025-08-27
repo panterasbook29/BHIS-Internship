@@ -100,6 +100,114 @@
 - Made the SSH honeypot lab work on my end
 - Finished the [beelzebub lab](/Labs/beelzebubLab.md) and started updating every lab and tool to be the same as in the VM
 
-## August 1st --- 
+## August 1st --- 2 hours 3 minutes
 - Finished updating all the labs and tools that i could
 - Made a list to update the cloud VM
+
+## August 2nd --- 5 hours 22 minutes
+- Doing AT courses
+
+## August 3rd --- 4 hours 23 minutes
+- Finished the Linux course and continued on with the python one while editing the labs
+- Started a regular expressions course
+
+## August 4th --- 5 hours 8 minutes
+- Continued the regex course
+- Setting up the remainder of the labs on the new Ubuntu VM
+- Continued setting up, finished hayabusa, still working on dionaea, I have to restart pretty much every lab
+
+## August 5th --- 5 hours 43 minutes
+- Still working on dionaea, trying a dual vm approach
+- Finally finished setting up dionaea, refurbished some of the other labs, started remaking the elastic lab
+- Refurbishing the labs, finished Elastic Cloud Documentation
+
+## August 6th --- 5 hours 38 minutes
+- Finished all the elastic labs, solved some linking issues and typos, integrated all the notes that we got and solved all the conflicts from the merge + started working on the memory dumps of compromised systems
+
+## August 7th --- 6 hours 50 minutes
+- Meeting with Jon and part of the team
+- Edited some labs, did some challenges and worked on making the windows mem dump smaller, started on the linux mem dump and finished it, tommorow I redo them and try to make them smaller
+
+## August 8th --- 5 hours 50 minutes
+- Researched on new operating systems and distros for the memory dumps, found netinst, still no progress on the windows memdump
+- SOC hangout meeting
+
+## August 9th --- Free
+
+## August 10th --- 5 hours 15 minutes
+- Finished memory 1 and 2, finally some real progress! Also made documentations for the commands I used
+- Finished dump number 3, working on a plan for 4, also making a new vm for it, added a documentation for what each stage should showcase
+
+## August 11th --- 2 hours 45 minutes
+- Finished stage4 for linux mem dump and organized all of them
+
+## August 12th --- Free
+
+## August 13th --- Free
+
+## August 14th --- 7 hours 28 minutes
+- Working on the Vuln Lab, learning about proxmox and how to use it, making the windows vms for it and configured and installed MSSQL, SSMS and SharePoint 2019 Server
+
+## August 15th --- 6 hours 48 minutes
+- Continuing the python course on AT and finished it and started John's intro to security class
+- Continued the RegEx course, added the lima charlie documentation and labs, also gave examples of useful rules for LC and Elastic and linked the LC lab
+- Continued the regex course for a bit
+
+## August 16th --- 1 hour 31 minutes
+- Finished the regex course and continued John's intro to security class
+
+## August 17th --- 1 hour 33 minutes
+- Continued the Intro to security class
+
+## August 18th --- 3 hours 35 minutes
+- Continued the Intro to security class
+- Added the shells for the 2 new sections and updated all the hyperlinks and made some edits and renewed the project architecture, also I finished the documentation for the web security section and started working on making the hands-on lab
+
+## August 19th --- 7 hours 58 minutes
+- Finished the WebSecurity Lab and fixed navigation.md and added the documentation for Forensics Fundamentals, installed a windows vm, started the documentation for Volatility and finished it also made documentation for FTK Imager
+- Made the schema for the Secure Coding Course, finished the 1st section and almost finished the 2nd, also started working on the volatility hands-on lab for the SOC course
+
+## August 20th --- 6 hours 42 minutes
+- Worked on the volatility lab, set it all up on the ubuntu vm, finished stage 1 run up and almost finished stage 2
+- Updated the web section to include browser malware, finished the volatility lab(all parts), did some research on Autopsy and made a documentation for it
+- Working on the secure coding course, finished the 1st lab of the 1st section, working on the 2nd one and finished it as well
+
+## August 21st --- 5 hours 11 minutes
+- Working on section 2 of the secure coding course
+- Working on section 2 of the secure coding course, finished the main file and 2 tool documentations, also on the main project I added a documentation for rita, and installed it on the network threat hunting VM
+- Made the 1st lab for section 2 of the Secure Coding Course and continue the intro to security course
+
+## August 22nd --- 4 hours 53 minutes
+- Put the zeek data in the NTH VM and outlined the labs logic for Rita
+- Worked on the DevSecOps Course, updated navigations.md and fixed lab 1 of section 2, and started 2nd lab and finished it, also started working on the main file of section 5
+- Finished the questions for the data in the rita lab
+
+## August 23rd --- 2 hours 17 minutes
+- On the DevSecOps Course, upgraded some docs, started making 1st lab and 2nd for Section 05 and finished them
+
+## August 24th --- 1 hour 53 minutes
+- Continued the Intro to security class
+
+## August 25th --- 2 hours 27 minutes
+- Fixed the Rita Labs
+- Did some research for the special project
+
+## August 26th --- 5 hours 47 minutes
+- Moving repos and doing courses
+- Working on the special project
+
+## August 27th --- 
+- Finished the first red lab for the special project
+- Tested some other labs
+
+## August 28th --- 
+- 
+
+
+
+
+
+
+
+
+
