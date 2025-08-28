@@ -196,9 +196,10 @@
 - Moving repos and doing courses
 - Working on the special project
 
-## August 27th --- 
+## August 27th --- 6 hours 42 minutes
 - Finished the first red lab for the special project
 - Tested some other labs
+- Working on the special project
 
 ## August 28th --- 
 - 
